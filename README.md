@@ -1,7 +1,10 @@
+# Xcode theme's 
+
+[Forked from tursunovic@'s xcode-themes][https://github.com/tursunovic]
+
 Your code doesn't have to look so sour. I've collected a list of Xcode themes and fonts that you can install. 
 [Read my blog post](http://www.damir.me/posts/xcodes-themes-and-fonts) which also contains a collection of fonts.
 
-# Xcode theme's
 
 ### Darkcloud
 ![Darkcloud](http://www.damir.me/u/manual/darkcloud.jpg)
